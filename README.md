@@ -1,3 +1,3 @@
 # NLP
-Here I gather my projects about Natural Language Processing.
-This is just an exercise to understand the full scale of NLP capabilities.
+Here I gather my data and exercises about Natural Language Processing.
+This repository is for me to grasp the full scale of NLP capabilities.
