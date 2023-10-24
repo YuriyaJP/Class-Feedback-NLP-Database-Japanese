@@ -9,7 +9,7 @@ Description and goals: For this project I have collected qualitative data from 1
 The goal is to accumulate enough feedback and tailor the projects to students’ wishes and needs. I managed to identify the key problems for each project from its responses and refine best recommendations. Hopefully, this will help teachers listen to their students’ voices better and encourage them to collect more feedback due to the simplicity of its realisation.
 
 Tools:
-**MeCab-python3-1.0.8 library for Japanese text tokenisation
-Gensim library for text summary and classification
-Unidic Japanese dictionary from an Amazon Web Services Open Data Sponsorship Program
+**MeCab-python3-1.0.8 library for Japanese text tokenisation,
+Gensim library for text summary and classification,
+Unidic Japanese dictionary from an Amazon Web Services Open Data Sponsorship Program,
 Jupyter Notebook**
