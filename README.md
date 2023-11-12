@@ -10,7 +10,7 @@ I had the privilege of teaching these 120 students over the course of one year, 
 The primary objective of this project is to create a feedback-driven learning environment. By accumulating and analyzing this rich feedback, I aim to tailor future projects to meet students' preferences and requirements. Each project's responses have unveiled key challenges, allowing us to refine recommendations for an even better learning experience. My hope is that this endeavor will inspire educators to listen more closely to their students, fostering a culture of continuous improvement and constructive feedback.
 
 ## **Key Tools:**
-- **MeCab-python3-1.0.8 Library:** Used for Japanese text tokenization.
-- **Gensim Library:** Employed for text summarization and classification, enabling a deeper understanding of the feedback.
+- **Nagisa Library:** Used for Japanese text tokenization.
+- **Pandas** 
 - **Unidic Japanese Dictionary:** Sourced from the Amazon Web Services Open Data Sponsorship Program.
-- **Jupyter Notebook:** The interactive environment where all the magic happens, allowing for efficient data analysis and visualization.
+- **Jupyter Notebook:**
